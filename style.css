@@ -1,0 +1,9 @@
+.parallax-container {
+  min-height: 380px;
+  line-height: 0;
+  height: 450px;
+  color: rgba(255,255,255,.9);
+}
+  .parallax-container .section {
+    width: 100%;
+  }
